@@ -1,0 +1,16 @@
+*{
+    text-transform: capitalize;
+    list-style: decimal-leading-zero;
+    text-decoration: none;
+ 
+    background-color: #cccccc; /* Used if the image is unavailable */
+}
+.container {
+
+    /* height: 100vw;
+    width: 100vw; */
+     /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-size: contain; /* Resize the background image to cover the entire container */
+
+}
